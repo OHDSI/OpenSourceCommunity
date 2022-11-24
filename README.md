@@ -2,7 +2,7 @@
 
 ![](images/paste-CF6C1909.png)
 
-**Upcoming Events**
+**Past Events**
 
 -   WebAPI Document-a-thon
 
