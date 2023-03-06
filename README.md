@@ -2,6 +2,11 @@
 
 ![](images/paste-CF6C1909.png)
 
+
+**Upcoming Events**
+
+- OHDSI Devcon April 21, 2023
+
 **Past Events**
 
 -   WebAPI Document-a-thon
