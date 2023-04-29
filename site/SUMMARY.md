@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [OHDSI Open Source Community](README.md)
+* [🏃 OHDSI testing infrastructure](ohdsi-testing-infrastructure.md)
